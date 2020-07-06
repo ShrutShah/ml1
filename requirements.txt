@@ -1,11 +1,2 @@
 pygame
-cmake
-opencv-python
-dlib
-numpy
-scipy
 
-imutils
-argparse
-
- 
