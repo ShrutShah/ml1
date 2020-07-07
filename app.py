@@ -1,7 +1,4 @@
-try:
-    import Tkinter as tk
-except:
-    import tkinter as tk
+import tkinter as tk
     
 
 import tkinter.messagebox
