@@ -1,2 +1,9 @@
 pygame
+imutils
+argparse
+scipy
+cmake
+dlib
+tkinker
+espeak
 
